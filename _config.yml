@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel Steinfeld"
+title                    : "Carlos Calvo-Sancho"
 title_separator          : "-"
-name                     : "Daniel Steinfeld"
-description              : "PhD in Atmospheric and Climate Science at ETH Zurich"
-url                      : "https://steidani.github.io"
+name                     : "Carlos Calvo-Sancho"
+description              : "MSc in GISc & Remote Sensing student"
+url                      : "https://ccalvosa.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "steidani/steidani.github.io"
+repository               : "ccalvosa/ccalvosa.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "steidani1"
+  username               : "meteozgz"
 facebook:
   username               :
   app_id                 :
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "dani_steinfeld@hotmail.com"
+  email            : "ccalvosancho@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "steidani"
+  github           : "ccalvosa"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "steidani1"
+  twitter          : "meteozgz"
   vine             :
   weibo            :
   xing             :
