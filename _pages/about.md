@@ -9,15 +9,16 @@ redirect_from:
 ---
 
 
-Hi, I am Daniel.  
+Hi, I am Carlos.  
 
-I obtained a PhD in Atmospheric and Climate Science at [ETH Zurich](https://iac.ethz.ch/group/atmospheric-dynamics.html) in May 2019.   
-The focus of my research was on atmospheric and climate dynamics, aimed at analysing physical processes governing the large-scale circulation and high-impact weather phenomena such as atmospheric blocking and windstorms.  
+Recently I did a MSc in Meteorology at [University of Barcelona] (http://www.ub.edu/estudis/ca/mastersuniversitaris/meteorologia/presentacio) and currently I am studying a MSc in Geographic Information Science and Remote Sensing at University of Zaragoza (https://estudios.unizar.es/estudio/ver?id=608).
 
-You can find some of my current projects here: [https://github.com/steidani](https://github.com/steidani)
+The focus of my research was on severe convective storms (SCS) in Spain, specially supercells storms, aimed at analysing climatological and physical processes that favor their formation such as convective environments or the influence of synoptic patterns. 
+analysing physical processes governing the large-scale circulation and high-impact weather phenomena such as atmospheric blocking and windstorms.  
 
-I am currently working as a NatCat Risk Modeler for a Swiss insurance company.  
+You can find some of my current projects here: [https://github.com/ccalvosa](https://github.com/ccalvosa)
+  
 
 
-![](http://steidani.github.io/images/animation_blocking.gif)
+![](http://ccalvosa.github.io/images/WTs_SPs.png)
 
