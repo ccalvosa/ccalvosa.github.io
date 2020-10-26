@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :  "UA-122456862-1"
+    tracking_id          :  "G-00WMSZ9834"
 
 
 # Site Author
 author:
-  name             : "Daniel Steinfeld"
-  avatar           : "pic_me.jpg"
-  bio              : "PhD in Atmospheric and Climate Science at ETH Zurich"
+  name             : "Carlos Calvo-Sancho"
+  avatar           : "pic_me.jpeg"
+  bio              : "https://ccalvosa.github.io"
   location         :
   employer         :
   pubmed           : 
   googlescholar    :
   email            : "ccalvosancho@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Carlos_Sancho4"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "steidani"
+  linkedin         : "ccalvos"
   orcid            :
   pinterest        :
   soundcloud       :
