@@ -14,4 +14,4 @@ Articles (peer-reviewed)
 MSc Thesis
 ---------------
 
-- Calvo-Sancho C., 2020: [Caracterización supercelular en España: resultados preliminares](10.13140/RG.2.2.27780.35202), University of Barcelona
+- Calvo-Sancho C., 2020: [Caracterización supercelular en España: resultados preliminares](https://10.13140/RG.2.2.27780.35202), University of Barcelona
