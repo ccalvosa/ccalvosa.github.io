@@ -8,7 +8,7 @@ author_profile: true
 Articles (peer-reviewed)
 ---------------
 
-- Calvo-Sancho C. & Martín Y., 2020: Supercells Preconvective Environment in Spain and Balearic Islands: a dynamical downscaling of ERA-5 Reanalysis, in preparation
+- Calvo-Sancho C. & Martín Y., 2021: Supercell Pre-convective Environments in Spain: a dynamic downscaling of ERA-5 Reanalysis, in preparation
 
 
 MSc Thesis
