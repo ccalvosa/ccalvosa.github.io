@@ -1,6 +1,6 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /visores/
+title: "Spain Severe Weather"
 author_profile: true
 ---
 
