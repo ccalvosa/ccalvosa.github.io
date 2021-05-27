@@ -5,13 +5,14 @@ author_profile: true
 ---
 
 
-Articles (peer-reviewed)
+Spanish severe weather climtology (ERA5 - 1979/2019)
 ---------------
 
-- Calvo-Sancho C. & Martín Y., 2021: Supercell Pre-convective Environments in Spain: a dynamic downscaling of ERA-5 Reanalysis, in preparation
+- [Convective proxies: Thunderstorm & Severe Thunderstorm](https://ccalvosa.github.io/Proxy.html)
+- [Supercell Composite Parameter](https://ccalvosa.github.io/SCP.html)
 
 
-MSc Thesis
+Geography
 ---------------
 
-- Calvo-Sancho C., 2020: [Caracterización supercelular en España: resultados preliminares](https://10.13140/RG.2.2.27780.35202), University of Barcelona
+- [Antigüedad edificios de Zaragoza](https://ccalvosa.github.io/Zaragoza.html)
