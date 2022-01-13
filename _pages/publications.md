@@ -8,8 +8,7 @@ author_profile: true
 Articles (peer-reviewed)
 ---------------
 
-- Bolgiani, P., Calvo-Sancho C., Díaz-Fernández, J., Quitián-Hernández, L., Sastre, M., Santos-Muñoz, D., Farrán, J.I., González-Alemán, J.J., Valero, F. & Martín, M.L. 2021: Kinetic Energy Climatology and Effective Resolution for the ERA5 Reanalysis, Climate Dynamics. In review
-- Calvo-Sancho C. & Martín Y., 2021: Supercell Pre-convective Environments in Spain: a dynamic downscaling of ERA-5 Reanalysis, in preparation
+- Bolgiani, P., Calvo-Sancho C., Díaz-Fernández, J., Quitián-Hernández, L., Sastre, M., Santos-Muñoz, D., Farrán, J.I., González-Alemán, J.J., Valero, F. & Martín, M.L. 2022: Kinetic Energy Climatology and Effective Resolution for the ERA5 Reanalysis, Climate Dynamics. Accepted.
 
 
 MSc Thesis
