@@ -8,7 +8,7 @@ author_profile: true
 Articles (peer-reviewed)
 ---------------
 
-- Bolgiani, P., Calvo-Sancho C., Díaz-Fernández, J., Quitián-Hernández, L., Sastre, M., Santos-Muñoz, D., Farrán, J.I., González-Alemán, J.J., Valero, F. & Martín, M.L. 2022: Kinetic Energy Climatology and Effective Resolution for the ERA5 Reanalysis, Climate Dynamics. Accepted.
+- Bolgiani, P., Calvo-Sancho C., Díaz-Fernández, J., Quitián-Hernández, L., Sastre, M., Santos-Muñoz, D., Farrán, J.I., González-Alemán, J.J., Valero, F. & Martín, M.L. 2022: [Kinetic Energy Climatology and Effective Resolution for the ERA5 Reanalysis](https://doi.org/10.1007/s00382-022-06154-y), Climate Dynamics. Accepted.
 
 
 MSc Thesis
