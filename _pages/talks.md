@@ -8,7 +8,7 @@ Oral conferences
 -------
 **A Climatology of Tropical Transitions in the North Atlantic Ocean**: [pdf](http://ccalvosa.github.io/files/EGU22-2395.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;European Geosciences Union 2022  
-&nbsp;&nbsp;&nbsp;&nbsp;_April 2022, Austria_
+&nbsp;&nbsp;&nbsp;&nbsp;_May 2022, Austria_
 
 Posters 
 -------
