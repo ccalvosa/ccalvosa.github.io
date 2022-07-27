@@ -17,5 +17,5 @@ You can find some of my current projects here: [https://github.com/ccalvosa](htt
   
 
 
-![](http://ccalvosa.github.io/images/WTs_SPs.png)
+![](http://ccalvosa.github.io/images/Fig9.png)
 
