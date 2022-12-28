@@ -8,7 +8,7 @@ author_profile: true
 Articles (peer-reviewed)
 ---------------
 
-- Calvo-Sancho C., Díaz-Fernández, J., Martín, Y., Bolgiani, P.,  Sastre, M., González-Alemán, J.J., Santos-Muñoz, D., Farrán, J.I., & Martín, M.L. 2022: [Supercell Convective Environments in Spain based on ERA5: Hail and Non-Hail Differences](https://doi.org/10.5194/wcd-2022-27), Weather and Climate Dynamics. Accepted.
+- Calvo-Sancho C., Díaz-Fernández, J., Martín, Y., Bolgiani, P.,  Sastre, M., González-Alemán, J.J., Santos-Muñoz, D., Farrán, J.I., & Martín, M.L. 2022: [Supercell Convective Environments in Spain based on ERA5: Hail and Non-Hail Differences](https://doi.org/10.5194/wcd-2022-27), Weather and Climate Dynamics. [[pdf]](http://ccalvosa.github.io/files/CalvoSancho_et_al_2022b.pdf)
 
 - Calvo-Sancho C., González-Alemán, J.J., Bolgiani, P., Santos-Muñoz, D., Farrán, J.I., & Martín, M.L. 2022: [An Environmental Synoptic Analysis of Tropical Transitions in the Central and Eastern North Atlantic](https://doi.org/10.1016/j.atmosres.2022.106353), Atmospheric Research. [[pdf]](http://ccalvosa.github.io/files/CalvoSancho_et_al_2022.pdf)
 
