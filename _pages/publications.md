@@ -20,7 +20,7 @@ Articles (peer-reviewed)
 
 - Calvo-Sancho C., González-Alemán, J.J., Bolgiani, P., Santos-Muñoz, D., Farrán, J.I., & Martín, M.L. 2022: [An Environmental Synoptic Analysis of Tropical Transitions in the Central and Eastern North Atlantic](https://doi.org/10.1016/j.atmosres.2022.106353), Atmospheric Research. [[pdf]](http://ccalvosa.github.io/files/CalvoSancho_et_al_2022.pdf)
 
-- Bolgiani, P., Calvo-Sancho C., Díaz-Fernández, J., Quitián-Hernández, L., Sastre, M., Santos-Muñoz, D., Farrán, J.I., González-Alemán, J.J., Valero, F. & Martín, M.L. 2022: [Kinetic Energy Climatology and Effective Resolution for the ERA5 Reanalysis](https://doi.org/10.1007/s00382-022-06154-y), Climate Dynamics. [[pdf]](http://ccalvosa.github.io/files/Bolgiani_et_al_2022.pdf)
+- Bolgiani, P., Calvo-Sancho C., Díaz-Fernández, J., Quitián-Hernández, L., Sastre, M., Santos-Muñoz, D., Farrán, J.I., González-Alemán, J.J., Valero, F. & Martín, M.L. 2022: [Wind Kinetic Energy Climatology and Effective Resolution for the ERA5 Reanalysis](https://doi.org/10.1007/s00382-022-06154-y), Climate Dynamics. [[pdf]](http://ccalvosa.github.io/files/Bolgiani_et_al_2022.pdf)
 
 
 MSc Thesis
