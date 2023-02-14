@@ -9,7 +9,7 @@ Articles (peer-reviewed)
 ---------------
 - Díaz-Fernández, J., Calvo-Sancho, C., Bolgiani, P., Lopez-Reyes, M., González-Alemán, J.J., Martín, Y., Farrán, J.I. and Martín, M.L. (2023): WRF-ARW and HARMONIE-AROME model validation for simulating a supercell outbreak in Spain. (Under Review). 
 
-- C. Calvo-Sancho, Quitián-Hernández, L., Bolgiani,P., González-Alemán, J.J., Santos-Muñoz, D., and Martín, M.L.,  (2023): Assessment of HARMONIE-AROME in the simulation of the convection associated to a subtropical transition using satellite data. (Under Review). 
+- Calvo-Sancho, C. Quitián-Hernández, L., Bolgiani,P., González-Alemán, J.J., Santos-Muñoz, D., and Martín, M.L.,  (2023): Assessment of HARMONIE-AROME in the simulation of the convection associated to a subtropical transition using satellite data. (Under Review). 
 
 - Calvo-Sancho, C., Quitián-Hernández, L., P. Bolgiani, D. Santos-Muñoz, M. Sastre, J. J. González-Alemán, and M. L. Martín (2023): Assessment of simulations of Tropical Transitions using THE WRF and HARMONIE-AROME numerical models. (Under Review). 
 
