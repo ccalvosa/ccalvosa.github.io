@@ -11,7 +11,7 @@ Articles (peer-reviewed)
 
 - Calvo-Sancho, C. Quitián-Hernández, L., Bolgiani,P., González-Alemán, J.J., Santos-Muñoz, D., and Martín, M.L.,  (2023): Assessment of HARMONIE-AROME in the simulation of the convection associated to a subtropical transition using satellite data. (Under Review). 
 
-- Calvo-Sancho, C., Quitián-Hernández, L., P. Bolgiani, D. Santos-Muñoz, M. Sastre, J. J. González-Alemán, and M. L. Martín (2023): Assessment of simulations of Tropical Transitions using THE WRF and HARMONIE-AROME numerical models. (Under Review). 
+- Calvo-Sancho, C., Quitián-Hernández, L., P. Bolgiani, D. Santos-Muñoz, M. Sastre, J. J. González-Alemán, and M. L. Martín (2023): Assessment of simulations of Tropical Transitions using the WRF and HARMONIE-AROME numerical models. (Under Review). 
 
 - Calvo-Sancho, C., Bolgiani, P., Subias, A., Sastre, M., González-Alemán, J.J. and Martín, M.L. (2023): Horizontal Kinetic Energy Analysis of Tropical Transition Simulations with the WRF and HARMONIE-AROME Models (Under review). 
 
