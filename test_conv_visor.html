@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <title>Mi Página</title>
+        <style>
+            /* Estilos CSS */
+            img {
+                width: 750px;
+                height: 500px;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li><a href="#visor">Visor</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <h1>Selector de Variables</h1>
+            <select id="variableSelect">
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CAPE.png">MU_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CAPE_M10.png">MU_CAPE_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CAPE_M10_PT.png">MU_CAPE_M10_PT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_02km_CAPE.png">MU_02km_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_03km_CAPE.png">MU_03km_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_HGL_CAPE.png">MU_HGL_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CIN.png">MU_CIN</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LCL_HGT.png">MU_LCL_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LFC_HGT.png">MU_LFC_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_EL_HGT.png">MU_EL_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LI.png">MU_LI</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LI_M10.png">MU_LI_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_WMAX.png">MU_WMAX</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_EL_TEMP.png">MU_EL_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LCL_TEMP.png">MU_LCL_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LFC_TEMP.png">MU_LFC_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_MIXR.png">MU_MIXR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CAPE_500.png">MU_CAPE_500</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CAPE_500_M10.png">MU_CAPE_500_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CAPE_500_M10_PT.png">MU_CAPE_500_M10_PT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_CIN_500.png">MU_CIN_500</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LI_500.png">MU_LI_500</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_LI_500_M10.png">MU_LI_500_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_CAPE.png">SB_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_CAPE_M10.png">SB_CAPE_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_CAPE_M10_PT.png">SB_CAPE_M10_PT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_02km_CAPE.png">SB_02km_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_03km_CAPE.png">SB_03km_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_HGL_CAPE.png">SB_HGL_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_CIN.png">SB_CIN</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_LCL_HGT.png">SB_LCL_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_LFC_HGT.png">SB_LFC_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_EL_HGT.png">SB_EL_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_LI.png">SB_LI</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_LI_M10.png">SB_LI_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_WMAX.png">SB_WMAX</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_EL_TEMP.png">SB_EL_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_LCL_TEMP.png">SB_LCL_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_LFC_TEMP.png">SB_LFC_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_MIXR.png">SB_MIXR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_CAPE.png">ML_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_CAPE_M10.png">ML_CAPE_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_CAPE_M10_PT.png">ML_CAPE_M10_PT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_02km_CAPE.png">ML_02km_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_03km_CAPE.png">ML_03km_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_HGL_CAPE.png">ML_HGL_CAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_CIN.png">ML_CIN</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_LCL_HGT.png">ML_LCL_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_LFC_HGT.png">ML_LFC_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_EL_HGT.png">ML_EL_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_LI.png">ML_LI</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_LI_M10.png">ML_LI_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_WMAX.png">ML_WMAX</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_EL_TEMP.png">ML_EL_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_LCL_TEMP.png">ML_LCL_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_LFC_TEMP.png">ML_LFC_TEMP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_MIXR.png">ML_MIXR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_0500m.png">LR_0500m</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_01km.png">LR_01km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_02km.png">LR_02km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_03km.png">LR_03km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_04km.png">LR_04km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_06km.png">LR_06km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_16km.png">LR_16km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_26km.png">LR_26km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_24km.png">LR_24km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_36km.png">LR_36km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_26km_MAX.png">LR_26km_MAX</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_500700hPa.png">LR_500700hPa</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_500800hPa.png">LR_500800hPa</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_LR_600800hPa.png">LR_600800hPa</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_FRZG_HGT.png">FRZG_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_FRZG_wetbulb_HGT.png">FRZG_wetbulb_HGT</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_HGT_max_thetae_03km.png">HGT_max_thetae_03km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_HGT_min_thetae_04km.png">HGT_min_thetae_04km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Delta_thetae.png">Delta_thetae</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Delta_thetae_min04km.png">Delta_thetae_min04km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Thetae_01km.png">Thetae_01km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Thetae_02km.png">Thetae_02km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_DCAPE.png">DCAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Cold_Pool_Strength.png">Cold_Pool_Strength</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Wind_Index.png">Wind_Index</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_PRCP_WATER.png">PRCP_WATER</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Moisture_Flux_02km.png">Moisture_Flux_02km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_RH_01km.png">RH_01km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_RH_02km.png">RH_02km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_RH_14km.png">RH_14km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_RH_25km.png">RH_25km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_RH_36km.png">RH_36km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_RH_HGL.png">RH_HGL</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_0500m.png">BS_0500m</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_01km.png">BS_01km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_02km.png">BS_02km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_03km.png">BS_03km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_06km.png">BS_06km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_08km.png">BS_08km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_36km.png">BS_36km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_26km.png">BS_26km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_16km.png">BS_16km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_18km.png">BS_18km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_EFF_MU.png">BS_EFF_MU</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_EFF_SB.png">BS_EFF_SB</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_EFF_ML.png">BS_EFF_ML</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_SFC_to_M10.png">BS_SFC_to_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_1km_to_M10.png">BS_1km_to_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_2km_to_M10.png">BS_2km_to_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_MU_LFC_to_M10.png">BS_MU_LFC_to_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_SB_LFC_to_M10.png">BS_SB_LFC_to_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_ML_LFC_to_M10.png">BS_ML_LFC_to_M10</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_MW02_to_SM.png">BS_MW02_to_SM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_MW02_to_RM.png">BS_MW02_to_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_MW02_to_LM.png">BS_MW02_to_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_HGL_to_SM.png">BS_HGL_to_SM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_HGL_to_RM.png">BS_HGL_to_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_BS_HGL_to_LM.png">BS_HGL_to_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_0500m.png">MW_0500m</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_01km.png">MW_01km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_02km.png">MW_02km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_03km.png">MW_03km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_06km.png">MW_06km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_13km.png">MW_13km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_100m_RM.png">SRH_100m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_250m_RM.png">SRH_250m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_500m_RM.png">SRH_500m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_1km_RM.png">SRH_1km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_3km_RM.png">SRH_3km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_36km_RM.png">SRH_36km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_100m_LM.png">SRH_100m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_250m_LM.png">SRH_250m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_500m_LM.png">SRH_500m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_1km_LM.png">SRH_1km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_3km_LM.png">SRH_3km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SRH_36km_LM.png">SRH_36km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_500m_RM.png">SV_500m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_01km_RM.png">SV_01km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_03km_RM.png">SV_03km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_500m_LM.png">SV_500m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_01km_LM.png">SV_01km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_03km_LM.png">SV_03km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_500m_RM.png">MW_SR_500m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_01km_RM.png">MW_SR_01km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_03km_RM.png">MW_SR_03km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_500m_LM.png">MW_SR_500m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_01km_LM.png">MW_SR_01km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_03km_LM.png">MW_SR_03km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_VM_500m_RM.png">MW_SR_VM_500m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_VM_01km_RM.png">MW_SR_VM_01km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_VM_03km_RM.png">MW_SR_VM_03km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_VM_500m_LM.png">MW_SR_VM_500m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_VM_01km_LM.png">MW_SR_VM_01km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MW_SR_VM_03km_LM.png">MW_SR_VM_03km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_FRA_500m_RM.png">SV_FRA_500m_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_FRA_01km_RM.png">SV_FRA_01km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_FRA_03km_RM.png">SV_FRA_03km_RM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_FRA_500m_LM.png">SV_FRA_500m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_FRA_01km_LM.png">SV_FRA_01km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SV_FRA_03km_LM.png">SV_FRA_03km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Bunkers_RM_A.png">Bunkers_RM_A</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Bunkers_RM_M.png">Bunkers_RM_M</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Bunkers_LM_A.png">Bunkers_LM_A</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Bunkers_LM_M.png">Bunkers_LM_M</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Bunkers_MW_A.png">Bunkers_MW_A</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Bunkers_MW_M.png">Bunkers_MW_M</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Corfidi_downwind_A.png">Corfidi_downwind_A</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Corfidi_downwind_M.png">Corfidi_downwind_M</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Corfidi_upwind_A.png">Corfidi_upwind_A</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Corfidi_upwind_M.png">Corfidi_upwind_M</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_K_Index.png">K_Index</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_Showalter_Index.png">Showalter_Index</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_TotalTotals_Index.png">TotalTotals_Index</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SWEAT_Index.png">SWEAT_Index</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_STP_fix.png">STP_fix</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_STP_new.png">STP_new</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_STP_fix_LM.png">STP_fix_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_STP_new_LM.png">STP_new_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SCP_fix.png">SCP_fix</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SCP_new.png">SCP_new</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SCP_fix_LM.png">SCP_fix_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SCP_new_LM.png">SCP_new_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SHIP.png">SHIP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_HSI.png">HSI</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_DCP.png">DCP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_WMAXSHEAR.png">MU_WMAXSHEAR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_WMAXSHEAR.png">SB_WMAXSHEAR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_WMAXSHEAR.png">ML_WMAXSHEAR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_EFF_WMAXSHEAR.png">MU_EFF_WMAXSHEAR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_EFF_WMAXSHEAR.png">SB_EFF_WMAXSHEAR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_EFF_WMAXSHEAR.png">ML_EFF_WMAXSHEAR</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_EHI_500m.png">EHI_500m</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_EHI_01km.png">EHI_01km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_EHI_03km.png">EHI_03km</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_EHI_500m_LM.png">EHI_500m_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_EHI_01km_LM.png">EHI_01km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_EHI_03km_LM.png">EHI_03km_LM</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SHERBS3.png">SHERBS3</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SHERBE.png">SHERBE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SHERBS3_v2.png">SHERBS3_v2</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SHERBE_v2.png">SHERBE_v2</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_DEI.png">DEI</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_DEI_eff.png">DEI_eff</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_TIP.png">TIP</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_ECAPE.png">MU_ECAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_ECAPE_ent_rate.png">MU_ECAPE_ent_rate</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_MU_ECAPE_upd_radius.png">MU_ECAPE_upd_radius</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_ECAPE.png">SB_ECAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_ECAPE_ent_rate.png">SB_ECAPE_ent_rate</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_SB_ECAPE_upd_radius.png">SB_ECAPE_upd_radius</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_ECAPE.png">ML_ECAPE</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_ECAPE_ent_rate.png">ML_ECAPE_ent_rate</option>
+                <option value="https://www.meteozgz.eu/conv_env_SPs/SPs_ML_ECAPE_upd_radius.png">ML_ECAPE_upd_radius</option>
+            </select>
+            <img id="imageDisplay" src="" alt="Imagen seleccionada">
+
+            <section id="visor">
+                <iframe src="test_entornos_SPs.html" frameborder="0" width="100%" height="500px"></iframe>
+            </section>
+        </main>
+
+        <script>
+            // Manejo de eventos para cambiar la imagen seleccionada
+            var select = document.getElementById("variableSelect");
+            var imageDisplay = document.getElementById("imageDisplay");
+
+            select.addEventListener("change", function() {
+                var selectedValue = select.value;
+                imageDisplay.src = selectedValue;
+            });
+        </script>
+    </body>
+    </html>
