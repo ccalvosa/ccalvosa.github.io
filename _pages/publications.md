@@ -7,13 +7,15 @@ author_profile: true
 
 Articles (peer-reviewed)
 ---------------
-- Díaz-Fernández, J., Calvo-Sancho, C., Bolgiani, P., Lopez-Reyes, M., González-Alemán, J.J., Martín, Y., Farrán, J.I. and Martín, M.L. (2023): WRF-ARW and HARMONIE-AROME model validation for simulating a supercell outbreak in Spain. (Under Review). 
-
-- Calvo-Sancho, C., Quitián-Hernández, L., P. Bolgiani, D. Santos-Muñoz, M. Sastre, J. J. González-Alemán, and M. L. Martín (2023): Assessment of simulations of Tropical Transitions using the WRF and HARMONIE-AROME numerical models. (Under Review). 
-
-- Calvo-Sancho, C., Bolgiani, P., Subias, A., Sastre, M., González-Alemán, J.J. and Martín, M.L. (2023): Horizontal Kinetic Energy Analysis of Tropical Transition Simulations with the WRF and HARMONIE-AROME Models (Under review). 
+- Martín, M.L., Calvo-Sancho, C., Taszarek, M., González-Alemán, J.J., Montoro-Mendoza, A., Díaz-Fernández, J., Bolgiani, P., Sastre, M., Martín, Y. (2024). Major Role of Marine Heatwave and Anthropogenic Climate Change on a Giant Hail Event in Spain. Geophysical Research Letters. Under Review. 
 
 
+
+- Díaz-Fernández, J., Calvo-Sancho, C., Bolgiani, P., González-Alemán, J. J., Farrán, J. I., Sastre, M., & Martín, M. L. (2024). [On the Precursor Environments to Mountain Lee Wave Clouds in Central Iberia under CMIP6 Projections](https://doi.org/10.3390/atmos15010128). Atmosphere, 15(1), 128.
+
+- Calvo-Sancho, C., Quitián-Hernández, L., González-Alemán, J. J., Bolgiani, P., Santos-Muñoz, D., & Martín, M. L. (2023). [Assessing the performance of the HARMONIE-AROME and WRF-ARW numerical models in North Atlantic Tropical Transitions](https://doi.org/10.1016/j.atmosres.2023.106801). Atmospheric Research, 291, 106801.
+
+- Calvo‐Sancho, C., Bolgiani, P., Subias, Á., Sastre, M., González‐Alemán, J. J., & Martín, M. L. (2023). [Horizontal kinetic energy analysis of tropical transition simulations with the WRF and HARMONIE‐AROME models](https://doi.org/10.1002/qj.4523). Quarterly Journal of the Royal Meteorological Society, 149(756), 2655-2677.
 
 - Calvo-Sancho, C. Quitián-Hernández, L., Bolgiani,P., González-Alemán, J.J., Santos-Muñoz, D., and Martín, M.L. 2023: [Assessment of HARMONIE-AROME in the simulation of the convective activity associated to a subtropical transition using satellite data](https://doi.org/10.1016/j.atmosres.2023.106794), Atmospheric Research.
 
