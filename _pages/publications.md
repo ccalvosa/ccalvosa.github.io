@@ -11,10 +11,11 @@ Articles (peer-reviewed) - Under Review or In Preparation
 
 - Díaz‐Fernández, J., Calvo‐Sancho, C., Bolgiani, P., Sastre, M., López-Reyes, M., Fernández-González, S., & Martín, M. L., (2024). Effect of complex orography on numerical simulations of a downburst event in Spain. Atmospheric Research. Under review.
 
-- López-Reyes, M., González-Alemán, J.J., Calvo-Sancho, C., Bolgiani, P., Sastre, M., & Martín, M.L. (2024). Remote Interactions Between Tropical Cyclones: The Case of Hurricane Michael and Leslie’s High Predictability Uncertainty. Atmospheric Research. Under review.
 
 Articles (peer-reviewed) - Published
 ---------------
+- López-Reyes, M., González-Alemán, J.J., Calvo-Sancho, C., Bolgiani, P., Sastre, M., & Martín, M.L. (2024). [Remote Interactions Between Tropical Cyclones: The Case of Hurricane Michael and Leslie’s High Predictability Uncertainty](https://doi.org/10.1016/j.atmosres.2024.107697). Atmospheric Research. Atmospheric Research.
+
 - Montoro‐Mendoza, A., Calvo‐Sancho, C., González‐Alemán, J. J., Díaz‐Fernández, J., Bolgiani, P., Sastre, M., Moreno-Chamarro, E., & Martín, M. L., (2024). [Environments conducive to tropical transitions in the North Atlantic: Anthropogenic climate change influence study using the EC-Earth3 model](https://doi.org/10.1016/j.atmosres.2024.107609). Atmospheric Research.
   
 - Martín, M.L., Calvo-Sancho, C., Taszarek, M., González-Alemán, J.J., Montoro-Mendoza, A., Díaz-Fernández, J., Bolgiani, P., Sastre, M., Martín, Y. (2024). [Major Role of Marine Heatwave and Anthropogenic Climate Change on a Giant Hail Event in Spain](https://doi.org/10.1029/2023GL107632). Geophysical Research Letters, 51(6), e2023GL107632. 
