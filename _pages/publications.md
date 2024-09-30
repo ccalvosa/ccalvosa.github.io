@@ -7,13 +7,14 @@ author_profile: true
 
 Articles (peer-reviewed) - Under Review or In Preparation
 ---------------
-- Pantillon, F., Davolio, S., Avolio, E., Calvo-Sancho, C., Carrió, D.S., Dafis, S., Flaounas, E., Gentile, E.S., González-Alemán, J.J., Gray, S., Miglietta, M.M., Patlakas, P., Pytharoulis, I., Ricard, D., Ricchi, A. & Sanchez, C. (2024). The crucial representation of deep convection for the cyclogenesis of medicane Ianos. Weather and Climate Dynamics. Under Review
 
 - Díaz‐Fernández, J., Calvo‐Sancho, C., Bolgiani, P., Sastre, M., López-Reyes, M., Fernández-González, S., & Martín, M. L., (2024). Effect of complex orography on numerical simulations of a downburst event in Spain. Atmospheric Research. Under review.
 
 
 Articles (peer-reviewed) - Published
 ---------------
+- Pantillon, F., Davolio, S., Avolio, E., Calvo-Sancho, C., Carrió, D.S., Dafis, S., Flaounas, E., Gentile, E.S., González-Alemán, J.J., Gray, S., Miglietta, M.M., Patlakas, P., Pytharoulis, I., Ricard, D., Ricchi, A. & Sanchez, C. (2024). [The crucial representation of deep convection for the cyclogenesis of medicane Ianos](https://doi.org/10.5194/wcd-5-1187-2024). Weather and Climate Dynamics.
+  
 - López-Reyes, M., González-Alemán, J.J., Calvo-Sancho, C., Bolgiani, P., Sastre, M., & Martín, M.L. (2024). [Remote Interactions Between Tropical Cyclones: The Case of Hurricane Michael and Leslie’s High Predictability Uncertainty](https://doi.org/10.1016/j.atmosres.2024.107697). Atmospheric Research. Atmospheric Research.
 
 - Montoro‐Mendoza, A., Calvo‐Sancho, C., González‐Alemán, J. J., Díaz‐Fernández, J., Bolgiani, P., Sastre, M., Moreno-Chamarro, E., & Martín, M. L., (2024). [Environments conducive to tropical transitions in the North Atlantic: Anthropogenic climate change influence study using the EC-Earth3 model](https://doi.org/10.1016/j.atmosres.2024.107609). Atmospheric Research.
