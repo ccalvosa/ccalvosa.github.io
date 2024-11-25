@@ -7,15 +7,16 @@ author_profile: true
 
 Articles (peer-reviewed) - Under Review or In Preparation
 ---------------
-
-- Díaz‐Fernández, J., Calvo‐Sancho, C., Bolgiani, P., Sastre, M., López-Reyes, M., Fernández-González, S., & Martín, M. L., (2024). Effect of complex orography on numerical simulations of a downburst event in Spain. Atmospheric Research. Under review.
+- López-Reyes, M., Martín, M.L., Calvo-Sancho, C. & González-Alemán, J.J. (2025). The key role of trough-tropical cyclone interaction in the rapid intensification of Hurricane Lidia. Geophysical Research Letters. Under Review.
 
 
 Articles (peer-reviewed) - Published
 ---------------
+- Díaz‐Fernández, J., Calvo‐Sancho, C., Bolgiani, P., Sastre, M., López-Reyes, M., Fernández-González, S., & Martín, M. L., (2024). [Effect of complex orography on numerical simulations of a downburst event in Spain](https://doi.org/10.1016/j.atmosres.2024.107821). Atmospheric Research.
+  
 - Pantillon, F., Davolio, S., Avolio, E., Calvo-Sancho, C., Carrió, D.S., Dafis, S.,  Gentile, E.S., González-Alemán, J.J., Gray, S., Miglietta, M.M., Patlakas, P., Pytharoulis, I., Ricard, D., Ricchi, A. Sanchez, C. & Flaounas, E. (2024). [The crucial representation of deep convection for the cyclogenesis of medicane Ianos](https://doi.org/10.5194/wcd-5-1187-2024). Weather and Climate Dynamics.
   
-- López-Reyes, M., González-Alemán, J.J., Calvo-Sancho, C., Bolgiani, P., Sastre, M., & Martín, M.L. (2024). [Remote Interactions Between Tropical Cyclones: The Case of Hurricane Michael and Leslie’s High Predictability Uncertainty](https://doi.org/10.1016/j.atmosres.2024.107697). Atmospheric Research. Atmospheric Research.
+- López-Reyes, M., González-Alemán, J.J., Calvo-Sancho, C., Bolgiani, P., Sastre, M., & Martín, M.L. (2024). [Remote Interactions Between Tropical Cyclones: The Case of Hurricane Michael and Leslie’s High Predictability Uncertainty](https://doi.org/10.1016/j.atmosres.2024.107697). Atmospheric Research.
 
 - Montoro‐Mendoza, A., Calvo‐Sancho, C., González‐Alemán, J. J., Díaz‐Fernández, J., Bolgiani, P., Sastre, M., Moreno-Chamarro, E., & Martín, M. L., (2024). [Environments conducive to tropical transitions in the North Atlantic: Anthropogenic climate change influence study using the EC-Earth3 model](https://doi.org/10.1016/j.atmosres.2024.107609). Atmospheric Research.
   
