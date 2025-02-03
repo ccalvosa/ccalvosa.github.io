@@ -12,6 +12,9 @@ Articles (peer-reviewed) - Under Review or In Preparation
 
 Articles (peer-reviewed) - Published
 ---------------
+
+### 2024
+
 - Díaz‐Fernández, J., Calvo‐Sancho, C., Bolgiani, P., Sastre, M., López-Reyes, M., Fernández-González, S., & Martín, M. L., (2024). [Effect of complex orography on numerical simulations of a downburst event in Spain](https://doi.org/10.1016/j.atmosres.2024.107821). Atmospheric Research.
   
 - Pantillon, F., Davolio, S., Avolio, E., Calvo-Sancho, C., Carrió, D.S., Dafis, S.,  Gentile, E.S., González-Alemán, J.J., Gray, S., Miglietta, M.M., Patlakas, P., Pytharoulis, I., Ricard, D., Ricchi, A. Sanchez, C. & Flaounas, E. (2024). [The crucial representation of deep convection for the cyclogenesis of medicane Ianos](https://doi.org/10.5194/wcd-5-1187-2024). Weather and Climate Dynamics.
@@ -24,11 +27,15 @@ Articles (peer-reviewed) - Published
 
 - Díaz-Fernández, J., Calvo-Sancho, C., Bolgiani, P., González-Alemán, J. J., Farrán, J. I., Sastre, M., & Martín, M. L. (2024). [On the Precursor Environments to Mountain Lee Wave Clouds in Central Iberia under CMIP6 Projections](https://doi.org/10.3390/atmos15010128). Atmosphere, 15(1), 128.
 
+### 2023
+
 - Calvo-Sancho, C., Quitián-Hernández, L., González-Alemán, J. J., Bolgiani, P., Santos-Muñoz, D., & Martín, M. L. (2023). [Assessing the performance of the HARMONIE-AROME and WRF-ARW numerical models in North Atlantic Tropical Transitions](https://doi.org/10.1016/j.atmosres.2023.106801). Atmospheric Research, 291, 106801.
 
 - Calvo‐Sancho, C., Bolgiani, P., Subias, Á., Sastre, M., González‐Alemán, J. J., & Martín, M. L. (2023). [Horizontal kinetic energy analysis of tropical transition simulations with the WRF and HARMONIE‐AROME models](https://doi.org/10.1002/qj.4523). Quarterly Journal of the Royal Meteorological Society, 149(756), 2655-2677.
 
 - Calvo-Sancho, C. Quitián-Hernández, L., Bolgiani,P., González-Alemán, J.J., Santos-Muñoz, D., and Martín, M.L. 2023: [Assessment of HARMONIE-AROME in the simulation of the convective activity associated to a subtropical transition using satellite data](https://doi.org/10.1016/j.atmosres.2023.106794), Atmospheric Research.
+
+### 2022
 
 - Calvo-Sancho C., Díaz-Fernández, J., Martín, Y., Bolgiani, P.,  Sastre, M., González-Alemán, J.J., Santos-Muñoz, D., Farrán, J.I., & Martín, M.L. 2022: [Supercell Convective Environments in Spain based on ERA5: Hail and Non-Hail Differences](https://doi.org/10.5194/wcd-3-1021-2022), Weather and Climate Dynamics. [[pdf]](http://ccalvosa.github.io/files/CalvoSancho_et_al_2022b.pdf)
 
