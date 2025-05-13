@@ -7,6 +7,9 @@ author_profile: true
 
 Articles (peer-reviewed) - Under Review or In Preparation
 ---------------
+- Calvo-Sancho, C., Díaz‐Fernández, J., González-Alemán, J.J., Halifa-Marín, A., Miglietta, M.M., Azorín-Molina, C., Prein, A.F., Montoro-Mendoza, A., Bolgiani, P., Morata, A., & Martín, M.L. (2025). Climate change unleashed: attribution analysis proves human-induced amplification of Valencia's deadly flooding. To submit.
+- Montoro-Mendoza, A., Calvo-Sancho, C., González-Alemán, J.J., Díaz‐Fernández, J., Bolgiani, P., & Martín, M.L. (2025). Strengthening of favorable environments for North Atlantic tropical cyclogenesis in midlatitudes in a warmer climate. To submit.
+- Díaz‐Fernández, J., Calvo-Sancho, C., Bolgiani, P., González-Alemán, J.J., Morata, A., Santos-Muñoz, D., & Martín, M.L.  (2025). Case study of a supercell outbreak in Spain and cost-benefit analysis of the nesting approach in HARMONIE-AROME. To submit.
 - López-Reyes, M., Martín, M.L., Calvo-Sancho, C. & González-Alemán, J.J. (2025). The key role of trough-tropical cyclone interaction in the rapid intensification of Hurricane Lidia. Geophysical Research Letters. Under Review.
 
 
