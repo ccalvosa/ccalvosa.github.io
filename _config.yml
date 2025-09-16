@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carlos Calvo-Sancho"
 title_separator          : "-"
 name                     : "Carlos Calvo-Sancho"
-description              : "PhD candidate"
+description              : "Postdoc researcher"
 url                      : "https://ccalvosa.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ccalvosa/ccalvosa.github.io"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "UHzcEtEAAAAJ&hl"
-  email            : "carlos.calvo.sancho@uva.es"
+  email            : "carlos.calvo@csic.es"
   researchgate     : "https://www.researchgate.net/profile/Carlos_Sancho4"
   uri              :
   bitbucket        :
