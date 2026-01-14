@@ -7,14 +7,15 @@ author_profile: true
 
 Articles (peer-reviewed) - Under Review or In Preparation
 ---------------
-- Calvo-Sancho, C., Díaz‐Fernández, J., González-Alemán, J.J., Halifa-Marín, A., Miglietta, M.M., Azorín-Molina, C., Prein, A.F., Montoro-Mendoza, A., Bolgiani, P., Morata, A., & Martín, M.L. (2025). Climate change unleashed: physical-based attribution analysis proves human-induced amplification of Valencia's deadly flooding. Nature Communications. Under Review.
-- Montoro-Mendoza, A., Calvo-Sancho, C., González-Alemán, J.J., Díaz‐Fernández, J., Bolgiani, P., & Martín, M.L. (2025). Strengthening of favorable environments for North Atlantic tropical cyclogenesis in midlatitudes in a warmer climate. npj Climate and Atmospheric Science. Under Review
-- Díaz‐Fernández, J., Calvo-Sancho, C., Bolgiani, P., González-Alemán, J.J., Morata, A., Santos-Muñoz, D., & Martín, M.L.  (2025). Cost-benefit analysis of the nesting approach in HARMONIE-AROME for a supercell outbreak case study. Atmospheric Research. Under Review.
 - López-Reyes, M., Martín, M.L., Calvo-Sancho, C. & González-Alemán, J.J. (2025). The key role of trough-tropical cyclone interaction in the rapid intensification of Hurricane Lidia. Weather and Climate Dynamics. Under Review.
 
 
 Articles (peer-reviewed) - Published
 ---------------
+### 2026
+- Calvo-Sancho, C., Díaz‐Fernández, J., González-Alemán, J.J., Halifa-Marín, A., Miglietta, M.M., Azorín-Molina, C., Prein, A.F., Montoro-Mendoza, A., Bolgiani, P., Morata, A., & Martín, M.L. (2026). Human-induced climate change amplification on storm dynamics in Valencia’s 2024 catastrophic flash flood. Nature Communications.
+- Montoro-Mendoza, A., Calvo-Sancho, C., González-Alemán, J.J., Díaz‐Fernández, J., Bolgiani, P., & Martín, M.L. (2026). [Strengthening of favorable environments for North Atlantic tropical cyclogenesis in midlatitudes in a warmer climate](https://doi.org/10.1038/s41612-025-01317-0). npj Climate and Atmospheric Science.
+- Díaz‐Fernández, J., Calvo-Sancho, C., Bolgiani, P., González-Alemán, J.J., Morata, A., Santos-Muñoz, D., & Martín, M.L.  (2026). [Cost-benefit analysis of the nesting approach in HARMONIE-AROME for a supercell outbreak case study](https://doi.org/10.1016/j.atmosres.2026.108774). Atmospheric Research.
 
 ### 2024
 
