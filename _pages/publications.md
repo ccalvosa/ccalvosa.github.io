@@ -7,13 +7,14 @@ author_profile: true
 
 Articles (peer-reviewed) - Under Review or In Preparation
 ---------------
-- López-Reyes, M., Martín, M.L., Calvo-Sancho, C. & González-Alemán, J.J. (2025). The key role of trough-tropical cyclone interaction in the rapid intensification of Hurricane Lidia. Weather and Climate Dynamics. Under Review.
+
 
 
 Articles (peer-reviewed) - Published
 ---------------
 ### 2026
-- Calvo-Sancho, C., Díaz‐Fernández, J., González-Alemán, J.J., Halifa-Marín, A., Miglietta, M.M., Azorín-Molina, C., Prein, A.F., Montoro-Mendoza, A., Bolgiani, P., Morata, A., & Martín, M.L. (2026). Human-induced climate change amplification on storm dynamics in Valencia’s 2024 catastrophic flash flood. Nature Communications.
+- Calvo-Sancho, C., Díaz‐Fernández, J., González-Alemán, J.J., Halifa-Marín, A., Miglietta, M.M., Azorín-Molina, C., Prein, A.F., Montoro-Mendoza, A., Bolgiani, P., Morata, A., & Martín, M.L. (2026). [Human-induced climate change amplification on storm dynamics in Valencia’s 2024 catastrophic flash flood](https://doi.org/10.1038/s41467-026-68929-9). Nature Communications.
+- López-Reyes, M., Martín, M.L., Calvo-Sancho, C. & González-Alemán, J.J. (2026). [The key role of trough-tropical cyclone interaction in the rapid intensification of Hurricane Lidia](https://doi.org/10.5194/wcd-7-523-2026). Weather and Climate Dynamics.
 - Montoro-Mendoza, A., Calvo-Sancho, C., González-Alemán, J.J., Díaz‐Fernández, J., Bolgiani, P., & Martín, M.L. (2026). [Strengthening of favorable environments for North Atlantic tropical cyclogenesis in midlatitudes in a warmer climate](https://doi.org/10.1038/s41612-025-01317-0). npj Climate and Atmospheric Science.
 - Díaz‐Fernández, J., Calvo-Sancho, C., Bolgiani, P., González-Alemán, J.J., Morata, A., Santos-Muñoz, D., & Martín, M.L.  (2026). [Cost-benefit analysis of the nesting approach in HARMONIE-AROME for a supercell outbreak case study](https://doi.org/10.1016/j.atmosres.2026.108774). Atmospheric Research.
 
