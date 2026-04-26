@@ -1,0 +1,31 @@
+.paper-buttons {
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.paper-buttons .btn {
+  font-size: 0.8rem;
+  padding: 0.2rem 0.6rem;
+}
+
+.altmetric-embed {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Contadores tipo Lemus arriba de Research */
+.grid h3 {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  font-weight: 700;
+  color: var(--bs-primary);
+}
+
+.grid em {
+  color: var(--bs-secondary-color);
+  font-size: 0.9rem;
+}

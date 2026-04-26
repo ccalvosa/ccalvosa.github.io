@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "!README.md"
+
+website:
+  title: "Carlos Calvo-Sancho"
+  description: "Postdoctoral researcher in severe convection and climate change"
+  site-url: "https://ccalvosa.github.io"
+  repo-url: "https://github.com/ccalvosa/ccalvosa.github.io"
+  favicon: favicon.png
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+      - href: posts/index.qmd
+        text: Blog
+    right:
+      - icon: envelope
+        href: "mailto:carlos.calvo@csic.es"
+      - icon: github
+        href: "https://github.com/ccalvosa"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/ccalvos"
+      - icon: twitter
+        href: "https://twitter.com/meteozgz"
+
+  page-footer:
+    left: "© 2026 Carlos Calvo-Sancho"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    include-in-header:
+      - text: |
+          <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>

@@ -1,0 +1,34 @@
+---
+title: "Carlos Calvo-Sancho"
+subtitle: "Postdoctoral researcher · Severe convection & climate change"
+about:
+  template: jolla
+  image: images/foto1.png
+  image-shape: round
+  image-width: 25em
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:carlos.calvo@csic.es"
+    - icon: github
+      text: GitHub
+      href: https://github.com/ccalvosa
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ccalvos
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/meteozgz
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=UHzcEtEAAAAJ
+    - text: "{{< ai researchgate >}} ResearchGate"
+      href: https://www.researchgate.net/profile/Carlos_Sancho4
+---
+
+I am a postdoctoral researcher at CIDE-CSIC-UV, working on severe convection
+and its links to climate change — supercells, hail, and convectively-driven
+extreme wind gusts in the Mediterranean and beyond.
+
+I am also a co-founder of the Spanish Supercell and Hail citizen science
+project ([@Supercelulas](https://twitter.com/Supercelulas)), recovering
+historical and current supercell and hail reports across Spain.
